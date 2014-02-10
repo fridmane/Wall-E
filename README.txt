@@ -1,1 +1,1 @@
-An assortment of functions and Arduino loops for constructing a simple robot
+An assortment of libraries and Arduino loops for constructing a simple robot
